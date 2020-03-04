@@ -207,3 +207,4 @@ module.exports = robot => {
   const bot = new AllBot(robot);
   bot.run();
 };
+
